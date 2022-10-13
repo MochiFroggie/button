@@ -1,0 +1,21 @@
+.btn {
+    margin-top: 40vh;
+}
+
+.btn button {
+    height: 100px;
+    width: 100%;
+    border: none;
+    background-color: maroon;
+    color: red;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    border-radius: 50px;
+}
+
+p {
+    margin-left: 25vw;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    color: maroon;
+}
